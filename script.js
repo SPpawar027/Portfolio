@@ -123,8 +123,8 @@ function typedAnimation() {
     var typeData = new Typed(".role", {
         strings: [
             "I'm a Frontend Developer",
-            "I Like Working in Frontend  Too",
-            "But My Favourite Role is Doing Nothing",
+            "I Like Working in Frontend  Tool",
+            "But My Favourite Role is to solve problems ",
         ],
         loop: true,
         typeSpeed: 100,
